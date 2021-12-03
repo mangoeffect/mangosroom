@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://mangoroom.cn](https://mangoroom.cn)
 
-- 💬 Ask me about **opencv parallel programminging simd**
+- 💬 Ask me about **opencv parallel-programming simd**
 
 - 📫 How to reach me **2321544362@qq.com**
 
