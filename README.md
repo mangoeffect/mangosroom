@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on develop an Industrial-Oriented vision algorithms project [mv-kit](https://github.com/mangosroom/mv-kit)
 
-- 📝 I regularly write articles on [https://blog.mangoroom.net](https://blog.mangoroom.net)
+- 📝 I regularly write articles on [https://blog.mangoroom.cn](https://blog.mangoroom.cn)
 
 - 💬 Ask me about **opencv parallel-programming simd**
 
