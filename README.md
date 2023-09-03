@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **opencv parallel-programming simd**
 
-- 📫 How to reach me **2321544362@qq.com**
+- 📫 How to reach me **mango@mangoeffect.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
